@@ -1,0 +1,74 @@
+.lermais {
+    background-color: rgb(53, 214, 53);
+  color: white  ;
+}
+
+.topo {
+    color: white;
+    background-color: red;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#economy h2 {
+    padding-left: 20px;
+    background-color: gold;
+    color: white;
+}
+
+#sport h2 {
+    padding-left: 20px;
+    background-color: green;
+    color: white;
+}
+
+
+#entertainment h2 {
+    padding-left: 20px;
+    background-color: red;
+    color: white;
+}
+
+
+#tecnology h2 {
+    padding-left: 20px;
+    background-color: blue;
+    color: white;
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header li{
+    display: inline;
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.articles article img {
+    height: 180px;
+}
+.articles article {
+    width: 30%;
+}
+
+
+
